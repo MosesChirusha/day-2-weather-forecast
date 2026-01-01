@@ -1,4 +1,4 @@
-# 7-Day Weather Forecast & Farming Advice Tool  
+# Day 2/90 7-Day Weather Forecast & Farming Advice Tool  
 **90 Days of Code for Africa — Day 2**
 
 ---
