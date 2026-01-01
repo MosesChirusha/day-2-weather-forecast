@@ -79,23 +79,26 @@ fetch("locations.json")
 ```
 
 ## Fetch 7-Day Weather Forecast
-```fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,precipitation_sum&timezone=Africa%2FNairobi`)
+```js
+fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,precipitation_sum&timezone=Africa%2FNairobi`)
 .then(res => res.json())
 .then(data => {
   const days = data.daily;
   displayForecast(days);
-}); ```
+});
+```
 
 ## Farming Advice Logic
 
-``` let advice =
+```js
+let advice =
 rain > 5 ? "Heavy rain — Do not plant. Protect crops." :
 rain > 0 ? "Light rain — Good time to sow seeds." :
 "No rain — Irrigate field & maintain moisture.";
 ```
 
 ## Example: locations.json
-```
+```json
 {
   "Nairobi": { "lat": -1.286389, "lon": 36.817223 },
   "Goma": { "lat": -1.6585, "lon": 29.2208 },
