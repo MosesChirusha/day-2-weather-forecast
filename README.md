@@ -118,7 +118,9 @@ High Temperature (>32°C)	Shade sensitive crops, reduce water loss
 
 ## Demo 
 
-[DEMO](link)
+[DEMO](https://moseschirusha.github.io/day-2-weather-forecast)
+[Video Tutorial](https://www.youtube.com/watch?v=XHZOoc7aCrI)
+[Medium Article](https://moseschirusha.medium.com/day-2-90-weather-forecast-farming-advice-tool-cf6a259cb84a)
 
 ## What You Learn in Day 2
 
