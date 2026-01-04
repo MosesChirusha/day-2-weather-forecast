@@ -8,5 +8,16 @@
   "Dakar": { "lat": 14.6937, "lon": -17.4441 },
   "Luanda": { "lat": -8.8368, "lon": 13.2343 },
   "Cape Town": { "lat": -33.9249, "lon": 18.4241 },
-  "Cairo": { "lat": 30.0444, "lon": 31.2357 }
+  "Cairo": { "lat": 30.0444, "lon": 31.2357 },
+  "Lagos": { "lat": 6.5244, "lon": 3.3792 },
+  "Addis Ababa": { "lat": 9.0320, "lon": 38.7469 },
+  "Dar es Salaam": { "lat": -6.7924, "lon": 39.2083 },
+  "Johannesburg": { "lat": -26.2041, "lon": 28.0473 },
+  "Khartoum": { "lat": 15.5007, "lon": 32.5599 },
+  "Abidjan": { "lat": 5.3600, "lon": -4.0083 },
+  "Casablanca": { "lat": 33.5731, "lon": -7.5898 },
+  "Algiers": { "lat": 36.7538, "lon": 3.0588 },
+  "Kampala": { "lat": 0.3476, "lon": 32.5825 },
+  "Tunis": { "lat": 36.8065, "lon": 10.1815 },
+  
 }
